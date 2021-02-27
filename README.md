@@ -16,3 +16,4 @@ Canımız sıfırlandığında bu ekran ile karşılaşacaz ve ana menuye donme 
 
 Öldükten sonra mağazaya girdikten sonra kazandığımız paralar ile can satın alabiliriz.
 
+Oyunda yer alan düşman, ana uzay gemimiz patlama efektleri ve lazer benim tarafımdan çizilmiştir.
